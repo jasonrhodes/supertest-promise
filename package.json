@@ -1,0 +1,24 @@
+{
+  "name": "supertest-promise",
+  "version": "1.0.0",
+  "description": "Promise-based simplified version of supertest for API functional testing",
+  "main": "supertest-promise.js",
+  "dependencies": {
+    "supertest": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonrhodes/supertest-promise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonrhodes/supertest-promise/issues"
+  },
+  "homepage": "https://github.com/jasonrhodes/supertest-promise#readme"
+}
